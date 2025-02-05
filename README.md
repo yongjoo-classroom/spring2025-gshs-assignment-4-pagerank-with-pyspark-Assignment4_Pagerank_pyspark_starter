@@ -12,11 +12,11 @@ You can learn more about PySpark and transformations here:
 ## Formula
 For a given node **i**, the PageRank score is computed as:
 
-<img width="1147" alt="Screenshot 2025-02-05 at 4 27 56 PM" src="https://github.com/user-attachments/assets/1c812963-fb97-4a82-8036-f389eed0e489" />
+<img width="1148" alt="Screenshot 2025-02-05 at 4 27 41 PM" src="https://github.com/user-attachments/assets/a9b64f9a-67df-4be8-95d4-f1beb95fc214" />
 
 Taking d = 0.85, 
 
-<img width="1148" alt="Screenshot 2025-02-05 at 4 27 41 PM" src="https://github.com/user-attachments/assets/a9b64f9a-67df-4be8-95d4-f1beb95fc214" />
+<img width="1147" alt="Screenshot 2025-02-05 at 4 27 56 PM" src="https://github.com/user-attachments/assets/1c812963-fb97-4a82-8036-f389eed0e489" />
 
 
 where:
